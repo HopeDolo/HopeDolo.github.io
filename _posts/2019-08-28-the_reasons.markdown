@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Reasons"
-date:       2019-08-28 05:26:44 +0000
+date:       2019-08-28 01:26:45 -0400
 permalink:  the_reasons
 ---
 
@@ -22,7 +22,7 @@ permalink:  the_reasons
  
  In order for me to get that passion and love for programming within me I have to be able to build on top of intro to ruby, to the CLI project and beyond to the last project. I really love the way that Learn.co goes about teaching and stucturing the development of software and I love how there are hundreds of others, learning away and helping their peers as well. The community is also a big part of why I am choosing to learn software develpment this way, although I'm learning in a self paced manner. The support and team effort are much needed in this journey and I am provided with all the tools needed to succeed through this program and curriculum. 
  
- Ultimatley, I want to be able to be an example for others who may want to break into tech, in what is considered an unconventional method. There is more than one way to skin a cat and there is more than one way to learning how to create software professionally.  I hope to learn these skills and then to be able to help others that are on their journy to becoming a profession software developer. 
+ Ultimately, I want to be able to be an example for others who may want to break into tech, in what is considered an unconventional method. There is more than one way to skin a cat and there is more than one way to learning how to create software professionally.  I hope to learn these skills and then to be able to help others that are on their journy to becoming a profession software developer. 
  
  There are more reasons that I or one could have for wanting to learn software development,  but I'm going to leave it at the few that I have mentioned.
  
